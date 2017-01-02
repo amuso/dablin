@@ -1,3 +1,5 @@
+# NOTE! Compiled and tested, but code has not been adapted for Mac OS X yet
+
 # DABlin - capital DAB experience
 
 DABlin plays a DAB/DAB+ audio service - either from a received live
